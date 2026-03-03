@@ -10,4 +10,4 @@ title: Olive Li
 
  
 My name is Olive Li, and = Cornell University majoring in Mechanical Engineering. 
-Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
+Take a look at [my projects](/sp26-portfolio-xl22522222/projects/2026-nutcracker-design-final/)
