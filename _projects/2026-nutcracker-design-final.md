@@ -26,9 +26,9 @@ A design for a nutcracker that can crack a macademia nut
 
 ## Solution: Diagram of Nut Cracker + Written Work Submitted for HW:
 
-![Nutcracker Diagram](/sp26-portfolio-xl22522222/assets/images/IMG_6737.jpg)
+![Nutcracker Diagram PT 1](/sp26-portfolio-xl22522222/assets/images/IMG_6737.jpg)
 
-![Nutcracker Diagram](/sp26-portfolio-xl22522222/assets/images/IMG_6738.jpg)
+![Nutcracker Diagram PT 2](/sp26-portfolio-xl22522222/assets/images/IMG_6738.jpg)
 
 
 ## Discussion
