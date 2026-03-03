@@ -1,4 +1,4 @@
-
+---
 layout: project
 title: Nutcracker Design
 description: Nutcracker Project
@@ -6,7 +6,6 @@ technologies: Google, Canvas
 image: /assets/images/IMG_6737.jpg
 image2: /assets/images/IMG_6738.jpg
 ---
-
 
 ## Find
 A design for a nutcracker that can crack a macademia nut
