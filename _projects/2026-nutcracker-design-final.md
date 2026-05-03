@@ -3,6 +3,7 @@ layout: project
 title: Nutcracker Design
 description: Nutcracker Project
 technologies: Google, Canvas
+categories: projects
 image: /assets/images/IMG_6737.jpg
 image2: /assets/images/IMG_6738.jpg
 ---
