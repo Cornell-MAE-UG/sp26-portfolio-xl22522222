@@ -1,8 +1,9 @@
 ---
 layout: project
-title: Nutcracker Design
+title: "Nutcracker Design 2"
 description: Nutcracker Project
 technologies: Google, Canvas
+categoreis: projects
 image: /assets/images/IMG_6827.jpg
 image2: /assets/images/IMG_6828.jpg
 ---
